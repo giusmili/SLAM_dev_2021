@@ -65,6 +65,7 @@ footer *{
     text-align: center;
     font-size: small;
 }
+
 /* media queris */
 @media screen and (max-width: 60rem){
     header h1{
